@@ -1,0 +1,76 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl JoinedMaterial_#121
+Kd 1 1 1
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl JoinedMaterial_#27
+Kd 0.372549 0.188235 0.188235
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl JoinedMaterial_#83
+Kd 1 1 1
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd WOOD_T~1.JPG
+
+newmtl JoinedMaterial_#123
+Kd 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl platnium_shiny
+Kd 0.4 0.435294 0.435294
+Ka 0.4 0.435294 0.435294
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl JoinedMaterial_#116
+Kd 0.545098 0.270588 0.0745098
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl JoinedMaterial_#57
+Kd 0.25098 0.0784314 0.0784314
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl JoinedMaterial_#66
+Kd 0.333333 0.164706 0.164706
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl JoinedMaterial_#120
+Kd 0.411765 0.411765 0.411765
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
